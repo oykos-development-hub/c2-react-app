@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Testiramo ReactJS aplikaciju</h1>
 
-        <div>Learning GitHub 2123</div>
+        <div>Learning GitHub</div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
