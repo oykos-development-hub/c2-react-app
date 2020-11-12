@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import ClassComponent from './classComponent';
 import './App.css';
 
 function App() {
@@ -8,6 +9,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Testiramo ReactJS aplikaciju</h1>
         <h3>Testiranje githuba</h3>
+
+      <ClassComponent 
+        nameAttribute="neki name atribut" 
+      />
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
