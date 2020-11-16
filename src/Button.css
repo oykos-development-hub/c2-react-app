@@ -1,0 +1,16 @@
+.button{
+    display: flex;
+    flex: 1;
+    height: 4em;
+    outline: 1px solid black;
+    color: white;
+    font-weight: lighter;
+    font-size: 1.4em;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.operator{
+    background-color: #fe9241;
+    color: white;
+}
